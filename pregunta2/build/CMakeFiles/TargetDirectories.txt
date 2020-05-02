@@ -1,0 +1,3 @@
+/home/anthony/Escritorio/repositorios/pooii-tarea-2-entrega-01-05-warleon/pregunta2/build/CMakeFiles/rebuild_cache.dir
+/home/anthony/Escritorio/repositorios/pooii-tarea-2-entrega-01-05-warleon/pregunta2/build/CMakeFiles/tarea3POO2Lab.dir
+/home/anthony/Escritorio/repositorios/pooii-tarea-2-entrega-01-05-warleon/pregunta2/build/CMakeFiles/edit_cache.dir

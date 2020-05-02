@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anthony/Escritorio/repositorios/pooii-tarea-2-entrega-01-05-warleon/pregunta4/src/Stack.cpp
+Stack.h
+/home/anthony/Escritorio/repositorios/pooii-tarea-2-entrega-01-05-warleon/pregunta4/src/Stack.h
+
+/home/anthony/Escritorio/repositorios/pooii-tarea-2-entrega-01-05-warleon/pregunta4/src/Stack.h
+
+/home/anthony/Escritorio/repositorios/pooii-tarea-2-entrega-01-05-warleon/pregunta4/src/main.cpp
+iostream
+-
+Stack.cpp
+/home/anthony/Escritorio/repositorios/pooii-tarea-2-entrega-01-05-warleon/pregunta4/src/Stack.cpp
+
